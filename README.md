@@ -100,7 +100,7 @@ By leveraging key web development technologies and practices, this project provi
 
 - **Unit Testing** – verifying individual modules (upload, login, etc.)
 - **Integration Testing** – checking data exchange between front-end/backend
-- **System Testing** – validating performance, scalability, and security
+- **System Testing** – validating performance, scalability and security
 
 ---
 
