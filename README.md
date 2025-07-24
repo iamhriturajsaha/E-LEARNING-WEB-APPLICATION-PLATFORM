@@ -1,4 +1,4 @@
-# 📚 E-Learning Web Application Platform
+# 📚E-Learning Web Application Platform
 
 ## 📘 Introduction
 
