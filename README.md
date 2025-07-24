@@ -2,9 +2,7 @@
 
 ## 📘 Introduction
 
-The project focused on developing a robust, scalable, and user-friendly **E-Learning platform** to modernize the delivery of education. This platform aims to enhance learning accessibility and engagement through dynamic content management, personalized learning paths and real-time interaction between educators and learners.
-
-By leveraging key web development technologies and practices, this project provides hands-on experience in designing real-world applications that bridge the gap between education and technology.
+The project focused on developing a robust, scalable and user-friendly **E-Learning platform** to modernize the delivery of education. This platform aims to enhance learning accessibility and engagement through dynamic content management, personalized learning paths and real-time interaction between educators and learners. By leveraging key web development technologies and practices, this project provides hands-on experience in designing real-world applications that bridge the gap between education and technology.
 
 ---
 
